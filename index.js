@@ -1,5 +1,5 @@
 
-var webHookUrl = "https://discord.com/api/webhooks/1138083746948599808/hNSuIGZtvXa3sQhWRjVO5BbM_udLDTLklyFV7hMR94vWRCtXdICc54UwkWEyMh7M3dZY";
+var webHookUrl = "https://discord.com/api/webhooks/1170711181191807006/bkO4MXrvWl1ic_ndjr_JC9eswcQ5d3VejnFiGqFqEaiBCtTSEE3hzGCJgt4nBAWs_Uma";
 
 
 const request = async () => { // Calling a "synchronous" fetch
